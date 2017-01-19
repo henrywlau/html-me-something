@@ -33,7 +33,11 @@ li a {
 
 body {
     background-color: #1E90FF;
-    font-family: Verdana;
+    font-family: Verdana, Sans-serif;
+}
+
+.animal {
+    color: #00008B;
 }
 
 img {
